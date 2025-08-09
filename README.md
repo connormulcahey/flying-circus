@@ -2,15 +2,18 @@
 
 Pole vault website for the Hudson Valley Flying Circus academy.
 
-## Quick Start - Production Mode
+## Quick Start
 
 To run both the Angular frontend and .NET backend together:
 
 ```bash
-# Option 1: Use the build script
-./build-and-run.sh
+# Development mode (default)
+./deploy.sh
 
-# Option 2: Manual steps
+# Production mode
+./deploy.sh -p
+
+# Manual steps (development)
 cd client
 npm install  # First time only
 npm run build
