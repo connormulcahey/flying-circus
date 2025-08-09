@@ -20,6 +20,7 @@
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
+            "outputPath": "../api/wwwroot",
             "assets": [
               {
                 "glob": "**/*",
@@ -61,7 +62,8 @@
               "buildTarget": "pv-client:build:production"
             },
             "development": {
-              "buildTarget": "pv-client:build:development"
+              "buildTarget": "pv-client:build:development",
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"

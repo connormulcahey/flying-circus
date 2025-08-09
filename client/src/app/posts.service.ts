@@ -23,7 +23,7 @@ export interface PagedResult<T> {
   providedIn: 'root'
 })
 export class PostsService {
-  private apiUrl = 'http://localhost:5025/api/posts'; // Update this to match your API URL
+  private apiUrl = '/api/posts'; // Relative URL - will use same host as Angular app
 
   constructor(private http: HttpClient) { }
 
