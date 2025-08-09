@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U18DohLN95g=",
+  "success": true,
+  "projectFilePath": "/Users/connormulcahey/hvfc/api/hvfc.csproj",
+  "expectedPackageFiles": [
+    "/Users/connormulcahey/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/Users/connormulcahey/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+<h1>Hudson Valley Flying Circus</h1>
+
+<div class="main-content">
+  <div class="pole-vault-bar">
+    <div class="rubber-end"></div>
+    <div class="bar"></div>
+    <div class="rubber-end"></div>
+  </div>
+  
+  <div class="blog-content">
+    <div class="blog-posts">
+      <h2>Recent Posts</h2>
+      
+      @if (loading()) {
+        <div class="loading">Loading posts...</div>
+      } @else if (error()) {
+        <div class="error">{{ error() }}</div>
+      } @else {
+        @for (post of posts(); track post.id) {
+          <article class="blog-post">
+            <h3><a [href]="'/post/' + post.id">{{ post.title }}</a></h3>
+            <div class="post-date">{{ formatDate(post.createdAt) }}</div>
+            @for (paragraph of formatContent(post.content); track paragraph) {
+              <p>{{ paragraph }}</p>
+            }
+          </article>
+        }
+      }
+    </div>
+    
+    <div class="blog-sidebar">
+      <h2>About</h2>
+      <p>Welcome to the Hudson Valley Flying Circus! We are a community of pole vaulting enthusiasts dedicated to helping athletes reach new heights.</p>
+    </div>
+</div>
+
