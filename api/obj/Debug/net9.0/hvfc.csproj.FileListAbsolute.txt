@@ -64,3 +64,14 @@
 /Users/connormulcahey/hvfc/api/obj/Debug/net9.0/hvfc.pdb
 /Users/connormulcahey/hvfc/api/obj/Debug/net9.0/hvfc.genruntimeconfig.cache
 /Users/connormulcahey/hvfc/api/obj/Debug/net9.0/ref/hvfc.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/connormulcahey/hvfc/api/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll

@@ -1,0 +1,452 @@
+[
+  {
+    "Id": 10,
+    "Title": "Home",
+    "Content": "",
+    "CreatedAt": "2023-03-09 13:27:07"
+  },
+  {
+    "Id": 12,
+    "Title": "Facilities",
+    "Content": "<div id=\"facilitiesContainer\">\n\t<div class=\"facilitiesBlock\">\n\t\t<h2>The Barn</h2>\n\t\t<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2015/04/barnCamp.jpg\" />\n\t\t<p>The Barn is one of two main practice areas at The Flying Circus and houses 2 pits, over 225 poles and several apparatus for off the pit drills. The barn is also wired with a high tech camera system to give instant replays of jumps as well as a speaker system for music to be enjoyed both indoors and out.</p>\n\t</div>\n\t<div class=\"facilitiesBlock\">\n\t\t<h2>Outdoor Facility</h2>\n\t\t<iframe src=\"https://www.youtube.com/embed/hE4dGHdYMho\" frameborder=\"0\" allowfullscreen></iframe>\n\t\t<p>The outdoor facility also has three pits, for a total of five. Two are opposite each other and share a runway. Having five pits allows us split up our vaulters into different groups for a better learning experience that is targeted toward their ability. Having both indoor and outdoor facilities also allows us to practice and compete year round, rain or shine.</p>\n\t</div></div>",
+    "CreatedAt": "2013-12-19 02:22:45"
+  },
+  {
+    "Id": 13,
+    "Title": "Forms",
+    "Content": "<div id=\"formsContainer\">\n<div id=\"importantMessage\" class=\"form\">\n<h2>ALL ATHLETES taking part in any and all activities of the Hudson Valley Flying Circus must have updated membership in USATF.</h2>\nRegister at <a href=\"https://www.usatf.org/membership/application/\">usatf.org</a> for the coming year.\n\n</div>\n<div class=\"form\">\n<h2>The Standard Meet and Practice Form</h2>\nNote that this form is for practices and meets ONLY. It also only needs to be filled out once per school year. It is not for the Summer/Spring Camps, or for the Winter Club Membership. That form is listed below.\n\n<a href=\"http://www.hvflyingcircus.com/wp-content/uploads/2016/08/PracticeMeetForm.pdf\">HVFC Practice &amp; Meet Form (PDF) \u2192</a>\n\n</div>\n<div class=\"form\">\n<h2>2025 SUMMER FLYING CIRCUS POLE VAULT CAMPS</h2>\nYou are invited to join the fun and learning to fly with us this summer \n    at our 28th Boys and Girls Flying Circus Pole Vault Camps in Warwick, New York. These. 2-day camps at \n    our five pole vault pits, along with our indoor apparatus will provide a sensational understanding of the \n    Mechanics of the Pole Vault event. Both camps are Co-Ed for Grades. 6-12. We will supply all the poles \n    at camp and have experienced coaches leading the ability-based groups of instruction.\n\n<a href=\"https://chocolate-rois-75.tiiny.site/\" target=\"_blank\" rel=\"noopener\">click here</a>\n\n</div>\n<div class=\"form\">\n<h2>New Membership Forms 2024 - 2025</h2>\nNew Membership&nbsp; Forms&nbsp; Link for our new Flying Circus&nbsp; Pole Vault Club Membership ..which begins September 1, 2024&nbsp; ~. September 1, 2025.\n\nTHANK YOU for all your great support again this year.&nbsp; &nbsp; Coach St. and Staff\n\nMembership&nbsp; Link&nbsp; \u2026\u2026\u2026\u2026\n\n<a href=\"https://form.jotform.com/Schuler_James/hudson-valley-flying-circus\">https://form.jotform.com/Schuler_James/hudson-valley-flying-circus</a>\n\n</div>\n</div>",
+    "CreatedAt": "2013-12-19 02:21:19"
+  },
+  {
+    "Id": 14,
+    "Title": "forms",
+    "Content": "",
+    "CreatedAt": "2013-12-19 02:21:19"
+  },
+  {
+    "Id": 16,
+    "Title": "Forms",
+    "Content": "",
+    "CreatedAt": "2013-12-19 02:21:31"
+  },
+  {
+    "Id": 17,
+    "Title": "Boards",
+    "Content": "<div id=\"boardsContainer\">\n<div class=\"board\">\n<h2>Girls Record Board</h2>\n<p style=\"text-align: left;\"><i>Updated September 12th, 2021</i></p>\n[table id=1 /]\n\n</div>\n<div class=\"board\">\n<h2>Boys Record Board</h2>\n<p style=\"text-align: left;\"><i>Updated September 12th, 2021</i></p>\n[table id=2 /]\n\n</div>\n<div class=\"board\">\n<h2>Step Chart</h2>\n[table id=3 /]\n\n</div>\n</div>",
+    "CreatedAt": "2013-12-19 02:21:45"
+  },
+  {
+    "Id": 18,
+    "Title": "Boards",
+    "Content": "",
+    "CreatedAt": "2013-12-19 02:21:45"
+  },
+  {
+    "Id": 19,
+    "Title": "Circus Meets",
+    "Content": "<img src=\"https://i.imgur.com/BngCSnH.png\">",
+    "CreatedAt": "2013-12-19 02:22:04"
+  },
+  {
+    "Id": 20,
+    "Title": "Schedule",
+    "Content": "",
+    "CreatedAt": "2013-12-19 02:22:04"
+  },
+  {
+    "Id": 22,
+    "Title": "",
+    "Content": " ",
+    "CreatedAt": "2023-03-09 13:27:07"
+  },
+  {
+    "Id": 23,
+    "Title": "",
+    "Content": " ",
+    "CreatedAt": "2023-03-09 13:27:07"
+  },
+  {
+    "Id": 24,
+    "Title": "Facilities",
+    "Content": "",
+    "CreatedAt": "2013-12-19 02:22:45"
+  },
+  {
+    "Id": 26,
+    "Title": "",
+    "Content": " ",
+    "CreatedAt": "2023-03-09 13:27:07"
+  },
+  {
+    "Id": 28,
+    "Title": "Welcome!",
+    "Content": "Welcome to the new website of the Hudson Valley Flying Circus! Here is where you can\u00a0receive\u00a0updates via the Coach\u2019s Blog, view the schedule, sign up for events, and much more.",
+    "CreatedAt": "2013-07-18 03:46:01"
+  },
+  {
+    "Id": 29,
+    "Title": "Welcome!",
+    "Content": "Welcome to the new website of the Hudson Valley Flying Circus! Here is where you can\u00a0receive\u00a0updates via the Coach\u2019s Blog, view the schedule, sign up for events, and much more.",
+    "CreatedAt": "2013-12-20 03:46:01"
+  },
+  {
+    "Id": 30,
+    "Title": "Vaulting Video @ The Barn!",
+    "Content": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/x08Mhazeaks\" frameborder=\"0\" allowfullscreen></iframe>",
+    "CreatedAt": "2013-12-20 04:53:17"
+  },
+  {
+    "Id": 31,
+    "Title": "Vaulting Video @ The Barn!",
+    "Content": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/x08Mhazeaks\" frameborder=\"0\" allowfullscreen></iframe>",
+    "CreatedAt": "2013-12-20 04:53:17"
+  },
+  {
+    "Id": 32,
+    "Title": "Sunset Soaring With Savage!",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/SavageSunset1.jpg\" />\n\n<p>Emily Savage (Weston, CT) is the 2013 New Balance High School National Pole Vault Champion.</p>\n<p>Photo by Ed Yaker</p>",
+    "CreatedAt": "2013-12-20 06:40:46"
+  },
+  {
+    "Id": 34,
+    "Title": "Sunset Soaring!",
+    "Content": "<a href=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/SavageSunset.jpg\"><img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/SavageSunset-199x300.jpg\" alt=\"SavageSunset\" width=\"199\" height=\"300\" class=\"alignnone size-medium wp-image-33\" /></a>\nEmily Savage (Weston, CT) is the 2013 New Balance High School National Pole Vault Champion.\n\nPhoto by Ed Yaker",
+    "CreatedAt": "2013-12-20 06:40:46"
+  },
+  {
+    "Id": 35,
+    "Title": "Sunset Soaring!",
+    "Content": "<a href=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/SavageSunset.jpg\"><img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/SavageSunset-199x300.jpg\" alt=\"SavageSunset\" class=\"alignnone size-medium wp-image-33\" /></a>\nEmily Savage (Weston, CT) is the 2013 New Balance High School National Pole Vault Champion.\n\nPhoto by Ed Yaker",
+    "CreatedAt": "2013-12-20 06:41:27"
+  },
+  {
+    "Id": 36,
+    "Title": "SavageSunset",
+    "Content": "",
+    "CreatedAt": "2013-12-20 06:42:26"
+  },
+  {
+    "Id": 37,
+    "Title": "Sunset Soaring!",
+    "Content": "<>\n\nEmily Savage (Weston, CT) is the 2013 New Balance High School National Pole Vault Champion.\n\nPhoto by Ed Yaker",
+    "CreatedAt": "2013-12-20 06:43:30"
+  },
+  {
+    "Id": 38,
+    "Title": "Sunset Soaring!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/SavageSunset1.jpg\" />\nEmily Savage (Weston, CT) is the 2013 New Balance High School National Pole Vault Champion.\n\nPhoto by Ed Yaker",
+    "CreatedAt": "2013-12-20 06:44:20"
+  },
+  {
+    "Id": 39,
+    "Title": "Sunset Soaring!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/SavageSunset1.jpg\" />\n\nEmily Savage (Weston, CT) is the 2013 New Balance High School National Pole Vault Champion.\n<br>\nPhoto by Ed Yaker",
+    "CreatedAt": "2013-12-20 06:46:22"
+  },
+  {
+    "Id": 40,
+    "Title": "Sunset Soaring!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/SavageSunset1.jpg\" />\n\n<p>Emily Savage (Weston, CT) is the 2013 New Balance High School National Pole Vault Champion.</p>\n<p>Photo by Ed Yaker</p>",
+    "CreatedAt": "2013-12-20 06:47:02"
+  },
+  {
+    "Id": 41,
+    "Title": "Great Photo of Eric Geider",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/geider.jpg\" />\n\nEric Geider (Northern Valley-Demerast, NJ) winning the New Jersey State \u201cMeet of Champions\u201d at South Plainsfield High School. Geider is bound for UPENN this fall !!! ",
+    "CreatedAt": "2013-12-20 06:52:32"
+  },
+  {
+    "Id": 42,
+    "Title": "geider",
+    "Content": "",
+    "CreatedAt": "2013-12-20 06:51:59"
+  },
+  {
+    "Id": 43,
+    "Title": "Great Photo of Eric Geider",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/geider.jpg\" />\n\nEric Geider (Northern Valley-Demerast, NJ) winning the New Jersey State \u201cMeet of Champions\u201d at South Plainsfield High School. Geider is bound for UPENN this fall !!! ",
+    "CreatedAt": "2013-12-20 06:52:32"
+  },
+  {
+    "Id": 44,
+    "Title": "Sunset Soaring With Savage!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/SavageSunset1.jpg\" />\n\n<p>Emily Savage (Weston, CT) is the 2013 New Balance High School National Pole Vault Champion.</p>\n<p>Photo by Ed Yaker</p>",
+    "CreatedAt": "2013-12-20 06:53:04"
+  },
+  {
+    "Id": 45,
+    "Title": "HVFC Video Montage by and featuring TJ Murphy",
+    "Content": "<iframe src=\"//www.youtube.com/embed/WRhQipnKBJU\" frameborder=\"0\" allowfullscreen></iframe>\n\nTJ (New Fairfield, CT) was the CT State Champion in high school and recently finished his freshman season vaulting for UConn.",
+    "CreatedAt": "2013-12-20 06:55:23"
+  },
+  {
+    "Id": 46,
+    "Title": "Play HVFC Video Montage by and featuring TJ Murphy",
+    "Content": "<iframe src=\"//www.youtube.com/embed/WRhQipnKBJU\" frameborder=\"0\" allowfullscreen></iframe>\n\nTJ (New Fairfield, CT) was the CT State Champion in high school and recently finished his freshman season vaulting for UConn.",
+    "CreatedAt": "2013-12-20 06:55:23"
+  },
+  {
+    "Id": 47,
+    "Title": "HVFC Video Montage by and featuring TJ Murphy",
+    "Content": "<iframe src=\"//www.youtube.com/embed/WRhQipnKBJU\" frameborder=\"0\" allowfullscreen></iframe>\n\nTJ (New Fairfield, CT) was the CT State Champion in high school and recently finished his freshman season vaulting for UConn.",
+    "CreatedAt": "2013-12-20 06:55:42"
+  },
+  {
+    "Id": 48,
+    "Title": "Staff",
+    "Content": "<!-- wp:html -->\n<div id=\"mainContentWrapper\">\n<div class=\"staffBlock clearfix\">\n  <h2>Tim St. Lawrence</h2>\n  <p><img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/coachst.jpg\" alt=\"Tim St. Lawrence\"></p>\n  <p><em><strong>The following is an <a href=\"http://www.rctfhalloffame.com/tim-st-lawrence.html\">article</a> from the <a href=\"http://www.rctfhalloffame.com/\">Rockland County Track &amp; Field Hall of Fame</a>:</strong></em></p>\n  <p>&nbsp;</p>\n  <p>When looking at the history of track and field in Rockland County, one cannot avoid frequent encounters with the surname St. Lawrence. Joe St. Lawrence was the 25-year coach of Suffern High\u2019s track team from the 1940s through the mid-\u201960s, before entering the state Legislature and later serving as the County treasurer. His sons all embraced his enthusiastic love of track and field and excelled each in their own way in the sport.</p>\n  <p>&nbsp;</p>\n  <p>Timothy, the second son of Marguerite and Joe St. Lawrence, showed the promise of athletic greatness even as a small child. He excelled at basketball, football, swimming, diving and being able to amaze his friends with his ability to do acrobatic tricks. The St. Lawrences\u2019 \u201cback yard\u201d was expansive, and frequently with help from his dad, he and his friends would hold small track meets. Tim was usually a leading point-getter in those meets. Nothing much changed as he grew as an athlete. He was usually one of the best athletes in any contest he competed in.</p>\n  <p>\n      <em><strong>\n        <a target=\"_blank\" href=\"http://www.rctfhalloffame.com/tim-st-lawrence.html\" rel=\"noopener noreferrer\">Continue Reading...</a>\n      </strong></em>\n    </p>\n</div>\n<p>&nbsp;</p>\n  <div class=\"staffBlock clearfix\">\n  <h2>Hugh Cauthers</h2>\n  <p><img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/hughcauthers.jpeg\" alt=\"Hugh Cauthers\"></p>\n  <p>Hugh Cauthers. was born to coach. As a Monroe-Woodbury Central High School(NY) teacher. and coach. for 45 years,  he developed  championship teams in  Boys Soccer.  and Boys & Girls. Indoor and Outdoor Track & Field. He promoted the field events for Head  Legendary Coaches... Dick Wilson...Lou Hall. and Jim Glover in the \" Crusaderland of Purple Pride.\"  His athletes. dominated all four jumping events(Long Jump,High Jump,Pole Vault,Triple Jump). in those. 45 years..... but his real love was...  The Pole Vault.  He sued NY State into providing the Pole Vault Event for Girls in 1998 and proceeded in coaching Michelle Kercado to the National Record (12' 9.75) in 1999. He also coached Alana Carroll to National Gold. and Stephanie Duffy to National Silver in the Vault.</p>\n  <p>He was inducted into the Section 9 Track & Field Hall of Fame. and Co-Founded. the Flying Circus. in 2000, for all area athletes wishing. to fly higher on fiberglass. Hugh is considered by all to be... \"The Father of the Girls Pole Vault\" in New York State.</p>\n</div>\n<p>&nbsp;</p>\n<div class=\"staffBlock\">\n<h2>Stephanie Duffy</h2>\n<p><img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2015/11/Duffy1.jpg\" alt=\"Stephanie Duffy\"></p>\n<p>Stephanie Duffy put the Flying Circus on the Vault Map\u2026with her 3 New York State Pole Vaulting Championships( 13' 1.5\") \u2026her 3 Time All-American High School honors\u2026her Runner-Up at Nike Outdoor Nationals (12' 10.75\")\u2026Her Many Diving Accomplishments at Washingtonville High School\u2026her National Honor Society accomplishments and her Perfect Attendance all four years in High School and her leadership skills both in High School and College.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div>\n<p>Stephanie competed at a Championship Level for the University of South Florida, Tampa,Florida for coaching legend\u2026Don Marsh. She was BIG EAST POLE VAUL Champion\u2026a 5 Time ACADEMIC ALL-AMERICAN with a personal best pole vault of 13' 6.25\" for the South Florida BULLS Track &amp; Field Team. She majored in Elementary Education and graduated with Honors and Dean List status and now teaches young Elementary Students in her home district at Washington Central Schools,New York. Her positive approach in teaching and her patience with young children are above reproach. She has excellent Bio-Mechanics understanding of the complex pole vaulting movements.</p>\n</div>\n</div>\n\n\n<div class=\"staffBlock\">\n<h2>Bob Sorensen</h2>\n<p><img style=\"max-width: 158px;\" src=\"http://www.hvflyingcircus.com/wp-content/uploads/2021/08/IMG_3591.jpg\" alt=\"Stephanie Duffy\"></p>\n<p>Coach Bob Sorensen comes from a long family line of pole vaulters and begins his seventh year at Flying Circus Pole Vault Academy. Coach Sorensen teaches pole vault technique and pole vault safety.\n <br><br>Bob uses small progressive drills aimed  at the. athletes ability level and brings a strong emphasis on the approach, run, pole drop mechanics. and plant positions/angles. His positive coaching style\n promotes confidence and trust in his athletes skills. Coach Sorensen is a Level 1 instructor at our pole vault club sessions, camps, clinics, and meets. He also assists in all Armory camps and clinics in pole vault.\n<br><br>He is an EMS medical certified leader and coaches his All-American son, Dane Sorensen (Cortland University) when he is  home from university. He is co-director of our home meets, including our Circus Summer Festival.</p>\n<p>&nbsp;</p>\n\n</div>\n\n</div>\n<!-- /wp:html -->",
+    "CreatedAt": "2013-12-20 07:03:16"
+  },
+  {
+    "Id": 49,
+    "Title": "Staff",
+    "Content": "",
+    "CreatedAt": "2013-12-20 07:03:16"
+  },
+  {
+    "Id": 50,
+    "Title": "",
+    "Content": " ",
+    "CreatedAt": "2023-03-09 13:27:07"
+  },
+  {
+    "Id": 51,
+    "Title": "Jordan Yamoah @ The Armory",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/jump.jpg\" />\n\nJordan Yamoah (Arlington, NY) jumping 16\u20196.5\u201d at the New Balance Armory in NYC.\n\nPhoto by Ed Yaker",
+    "CreatedAt": "2013-12-20 07:14:17"
+  },
+  {
+    "Id": 52,
+    "Title": "jump",
+    "Content": "",
+    "CreatedAt": "2013-12-20 07:13:43"
+  },
+  {
+    "Id": 53,
+    "Title": "",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/jump.jpg\" />\n\nJordan Yamoah (Arlington, NY) jumping 16\u20196.5\u201d at the New Balance Armory in NYC.\n\nPhoto by Ed Yaker",
+    "CreatedAt": "2013-12-20 07:14:17"
+  },
+  {
+    "Id": 54,
+    "Title": "Jordan Yamoah @ The Armory",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/jump.jpg\" />\n\nJordan Yamoah (Arlington, NY) jumping 16\u20196.5\u201d at the New Balance Armory in NYC.\n\nPhoto by Ed Yaker",
+    "CreatedAt": "2013-12-20 07:15:03"
+  },
+  {
+    "Id": 55,
+    "Title": " 2013 Boys Summer Camp Photo Album",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/drill.png\">\n\nView the album <a href=\"http://edpix.phanfare.com/6151636\" >here</a>!",
+    "CreatedAt": "2013-12-20 07:18:45"
+  },
+  {
+    "Id": 56,
+    "Title": "drill",
+    "Content": "",
+    "CreatedAt": "2013-12-20 07:17:54"
+  },
+  {
+    "Id": 57,
+    "Title": " 2013 Boys Summer Camp Photo Album",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/drill.png\">\n\nView the album <a href=\"http://edpix.phanfare.com/6151636\" >here</a>!",
+    "CreatedAt": "2013-12-20 07:18:45"
+  },
+  {
+    "Id": 58,
+    "Title": "Matt Mula Soars!",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/mattMulla.jpg\" />\n\nMatt Mula (Staples, CT)  Flying this spring\u2026 Matt heads to University of Rhode Island with Westhill, CT Billy Thibault",
+    "CreatedAt": "2013-12-20 07:21:20"
+  },
+  {
+    "Id": 59,
+    "Title": "Matt Mula Soars!",
+    "Content": "<img src=\"\" />\n\nMatt Mula (Staples, CT)  Flying this spring\u2026 Matt heads to University of Rhode Island with Westhill, CT Billy Thibault",
+    "CreatedAt": "2013-12-20 07:21:20"
+  },
+  {
+    "Id": 60,
+    "Title": "mattMulla",
+    "Content": "",
+    "CreatedAt": "2013-12-20 07:21:37"
+  },
+  {
+    "Id": 61,
+    "Title": "Matt Mula Soars!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/mattMulla.jpg\" />\n\nMatt Mula (Staples, CT)  Flying this spring\u2026 Matt heads to University of Rhode Island with Westhill, CT Billy Thibault",
+    "CreatedAt": "2013-12-20 07:21:48"
+  },
+  {
+    "Id": 62,
+    "Title": "Girls Summer Camp 2013",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/girlsCamp2013.jpg\" />\n\n45 SUPER POLE VAULTERS\"\u2026. taking a break from the Flying Circus Camp in Warwick , NY.. The 100+ Degree Heat could not stop them!!!!!!  CONGRATULATIONS !!!!",
+    "CreatedAt": "2013-12-20 07:24:34"
+  },
+  {
+    "Id": 63,
+    "Title": "girlsCamp2013",
+    "Content": "",
+    "CreatedAt": "2013-12-20 07:24:19"
+  },
+  {
+    "Id": 64,
+    "Title": "Girls Summer Camp 2013",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/girlsCamp2013.jpg\" />\n\n45 SUPER POLE VAULTERS\"\u2026. taking a break from the Flying Circus Camp in Warwick , NY.. The 100+ Degree Heat could not stop them!!!!!!  CONGRATULATIONS !!!!",
+    "CreatedAt": "2013-12-20 07:24:34"
+  },
+  {
+    "Id": 65,
+    "Title": "Emily Savage Sets New England Record!",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/savageNewNglandRecod.jpg\" />\n\nEmily Savage (Weston,CT) \u2026\u2026 Soars over 13\u2019 2.5\u201d  for an All-Time New England Pole Vault Record!!!!!!  Emily will be vaulting  at The University Of Oklahoma next fall!!!!",
+    "CreatedAt": "2013-12-20 07:29:06"
+  },
+  {
+    "Id": 66,
+    "Title": "savageNewEnglandRecod",
+    "Content": "",
+    "CreatedAt": "2013-12-20 07:28:41"
+  },
+  {
+    "Id": 67,
+    "Title": "Emily Savage Set New England Record!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/savageNewNglandRecod.jpg\" />\n\nEmily Savage (Weston,CT) \u2026\u2026 Soars over 13\u2019 2.5\u201d  for an All-Time New England Pole Vault Record!!!!!!  Emily will be vaulting  at The University Of Oklahoma next fall!!!!",
+    "CreatedAt": "2013-12-20 07:29:06"
+  },
+  {
+    "Id": 68,
+    "Title": "Emily Savage Sets New England Record!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/savageNewNglandRecod.jpg\" />\n\nEmily Savage (Weston,CT) \u2026\u2026 Soars over 13\u2019 2.5\u201d  for an All-Time New England Pole Vault Record!!!!!!  Emily will be vaulting  at The University Of Oklahoma next fall!!!!",
+    "CreatedAt": "2013-12-20 07:29:18"
+  },
+  {
+    "Id": 69,
+    "Title": "MEGAN CLARK (USA) FLYS AGAIN !!!",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/meganSoars.jpg\" />\n\nDuke University freshman  and Flying Circus Alumni\u2026Megan Clark of Durham,NC won her USATF Jr. National Pole Vault Championship last month in DesMoines,Iowa with her 13\u2019 7.75 leap\u2026. And will represent USA at the Jr. Pan American Games August 25-27 in South America\u2026CONGRATULATIONS MEGAN  !!!!!!!!",
+    "CreatedAt": "2013-12-20 07:31:36"
+  },
+  {
+    "Id": 70,
+    "Title": "meganSoars",
+    "Content": "",
+    "CreatedAt": "2013-12-20 07:31:24"
+  },
+  {
+    "Id": 71,
+    "Title": "MEGAN CLARK (USA) FLYS AGAIN !!!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/meganSoars.jpg\" />\n\nDuke University freshman  and Flying Circus Alumni\u2026Megan Clark of Durham,NC won her USATF Jr. National Pole Vault Championship last month in DesMoines,Iowa with her 13\u2019 7.75 leap\u2026. And will represent USA at the Jr. Pan American Games August 25-27 in South America\u2026CONGRATULATIONS MEGAN  !!!!!!!!",
+    "CreatedAt": "2013-12-20 07:31:36"
+  },
+  {
+    "Id": 72,
+    "Title": "35 VAULTERS... CIRCUS BEACH VAULT PARTY !!!!",
+    "Content": "The Hudson Valley FLYING CIRCUS Poe Vault Academy, LLC\n\nVAULT-TOWN, USA \u2026.\n\nWarwick, New York\n\n  \u201d OH HAPPY DAYS \u201d \u2026\u2026\u2026.  That was the theme for the  35 energized Flyin\u2019   Circus Pole Vaulters at  the 6th   Vertical Adventures Seaside Heights Beach Vault this past weekend.   The  end of the competitive season was a blast for all vaulters\u2026coaches\u2026.parents  and family members  celebrating the \u201cSpirit of Friendship\u201d\u2026.Flying Circus Style\u2026 and  YES\u2026 it was  another RECORD for the little club nestled in the hills of Warwick Valley\u2026 THANK  YOU ALL for making our year our \u2018BEST EVER\u2019\u2026\u2026\n\n      \u2026.. this meet was  more about connecting with each other and saying farewell to all our  graduating seniors\u2026 we could not be more proud of each of you\u2026.. \u201cYour spirit ..takes us to the Moon\u201d. \n\n      Enjoy the final summer days.\n\n<hr>\n\n  Just the Facts\u2026..\n\n    35 Vaulters\u2026..NEW RECORD (old  24 vaulters in 2012) !!!\n\n     3 Division Champions\u2026Sydnie LeRoy(Open Women)..Chris Gulielmo(Novice A)  and Emily Savage(HS Girls)!!!!\n\n      1 Pole Vault Raffle Winner.. Matea Freidel(Rye,NY)\n\n      1 NEW  BEACH TENT DONATION\u2026Liz LYNCH !!!! Thank You!!!\n\n      1  Lodging Donation\u2026Craig & Bobbi Jo DiBona!!!\n\n      1 Professional Organized Event\u2026Mike Pascuzzo & Bob Amos !!!\n\n      1 Hands On Clinic all weekend\u2026 LAWRENCE JOHNSON\u2026LOJO VAULT!!!\n\n      1 COACHING LEGEND\u2026Coach Paul Richards of the orginal FLYING CIRCUS  and Coach of Will Nesbitt\u2019s 16\u2019 4\u201d HS leap!!!!\n\n       Great Music\u2026Great Stories\u2026and Great Laughter.\n\n        The only way to end the season.\n\n  <hr>\n\n  \u201cEVERYBODY\u201d\u2026 can be SOMEBODY\u2026.\n\n   MAKE  A DIFFERENCE.\n\n                  -  Raul Midon\n\n    Results\u2026.\n\n  Boys Novice A   \u2026 1-Chris Guglielmo(CS) 13\u2019 6\u201d   Adien Woolsey(TV)  11\u2019 6\u201d Marc Ocampo(NV).. 11\u2019 6\u201d   Mike Skinner..(HVFC)  11\u2019 0\u201d  \n\n  Girls Novice A \u2026.. 6-Cara Kelly(V)  9\u2019 6\u201d  Niki Cleary(HVFC)  9\u2019 0\u201d   Dana Rokiczak(CS)  9\u2019 0\u201d\n\n   Girls Novice B\u2026. 4-Matea Freidel(Rye)  8\u2019 6\u201d (Pole Raffel Winner!)\n\n   Boys Novice   B\u2026. 8-JAKE DIAMOND(S)  8\u2019 6\u201d   MIKE GUGLIELMO(CS)  8\u2019 0\u201d MacKenzie LeRoy(HVFC)\n\n   Girls HS Championship\u2026. 1-Emily Savage(Weston)  12\u2019 0\u201d  2-Jenna Calandro(Newown,CT)  11\u2019 6\u201d  6-Maddie Schneider(Darien,CT)  11\u2019 0\u201d  Kara Snyder(C) 11\u2019 0\u201d  Marisa Robbins)G) 11\u2019 0\u201d  Kali Manly(BH) 10\u2019 6\u201d\n\n    Boys HS Championship\u2026. 3-Peter Fagan(W)  15\u2019 6\u201d  4-Justin Farrenkopf(E) 15\u2019 0\u201d  5-Derek DiBona(Warwick) 14\u2019 6\u201d  6-Karl Nelsen(SW) 14\u2019 0\u201d  Whit Oehler-Marx(NP) 13\u2019 6\u201d  James Deutmeyer(FP)  13\u2019 6\u201d   Chris Rough(WH) 13\u2019 6\u201d   Luke Annichiarica(OT)  13\u2019 0\u201d  Pat Lynch(C)  12\u2019 6\u201d\n\n   Open Women\u20261-Sydnie LeRoy(HVFC)  12\u2019 0\u201d  Maddesen Weekes(HVFC)  10\u2019 0\u201d  Dana Fineman(HVFC).. 9\u20196\u201d  Jessica Sector(HVFC)\n\n   Open Men\u2026. TJ Murphy(HVFC)  14\u2019 0\u201d  Ben Simonet(HVFC)  13\u2019 6\u201d  Jordan Subai(HVFC)  13\u2019 0\u201d  Jason Sector(HVFC)  13\u2019 0\u201d  Nick Perez(HVFC)\n\n   Mens Masters\u2026. 2-Will Nesbitt(HVFC)   12\u2019 0\u201d\n\n<hr>\n\n  SPECIAL THANKS  \u2026 to Coach Will Nesbitt and Coach Ben Simonet for delivering  our new MONDO SUPER X PERFORMANCE RUNWAYS for our Fall  classes..and to Todd Uckermarl and derek DiBona for helping  with the installation!!!!!    FASTEST RUNWAY in the WORLD !!!!!\n\n   New Fall Pole Vault Class Schedule coming  soon\u2026\n\n   Check our new Web Site for all details\u2026..\n\n     \u201dReach for Heaven\u201d\u2026\u2026. FLYING CIRCUS.",
+    "CreatedAt": "2013-12-20 07:33:32"
+  },
+  {
+    "Id": 73,
+    "Title": "35 VAULTERS... CIRCUS BEACH VAULT PARTY !!!!",
+    "Content": "The Hudson Valley FLYING CIRCUS Poe Vault Academy, LLC\n\nVAULT-TOWN, USA \u2026.\n\nWarwick, New York\n\n  \u201d OH HAPPY DAYS \u201d \u2026\u2026\u2026.  That was the theme for the  35 energized Flyin\u2019   Circus Pole Vaulters at  the 6th   Vertical Adventures Seaside Heights Beach Vault this past weekend.   The  end of the competitive season was a blast for all vaulters\u2026coaches\u2026.parents  and family members  celebrating the \u201cSpirit of Friendship\u201d\u2026.Flying Circus Style\u2026 and  YES\u2026 it was  another RECORD for the little club nestled in the hills of Warwick Valley\u2026 THANK  YOU ALL for making our year our \u2018BEST EVER\u2019\u2026\u2026\n\n      \u2026.. this meet was  more about connecting with each other and saying farewell to all our  graduating seniors\u2026 we could not be more proud of each of you\u2026.. \u201cYour spirit ..takes us to the Moon\u201d. \n\n      Enjoy the final summer days.\n\n<hr>\n\n  Just the Facts\u2026..\n\n    35 Vaulters\u2026..NEW RECORD (old  24 vaulters in 2012) !!!\n\n     3 Division Champions\u2026Sydnie LeRoy(Open Women)..Chris Gulielmo(Novice A)  and Emily Savage(HS Girls)!!!!\n\n      1 Pole Vault Raffle Winner.. Matea Freidel(Rye,NY)\n\n      1 NEW  BEACH TENT DONATION\u2026Liz LYNCH !!!! Thank You!!!\n\n      1  Lodging Donation\u2026Craig & Bobbi Jo DiBona!!!\n\n      1 Professional Organized Event\u2026Mike Pascuzzo & Bob Amos !!!\n\n      1 Hands On Clinic all weekend\u2026 LAWRENCE JOHNSON\u2026LOJO VAULT!!!\n\n      1 COACHING LEGEND\u2026Coach Paul Richards of the orginal FLYING CIRCUS  and Coach of Will Nesbitt\u2019s 16\u2019 4\u201d HS leap!!!!\n\n       Great Music\u2026Great Stories\u2026and Great Laughter.\n\n        The only way to end the season.\n\n  <hr>\n\n  \u201cEVERYBODY\u201d\u2026 can be SOMEBODY\u2026.\n\n   MAKE  A DIFFERENCE.\n\n                  -  Raul Midon\n\n    Results\u2026.\n\n  Boys Novice A   \u2026 1-Chris Guglielmo(CS) 13\u2019 6\u201d   Adien Woolsey(TV)  11\u2019 6\u201d Marc Ocampo(NV).. 11\u2019 6\u201d   Mike Skinner..(HVFC)  11\u2019 0\u201d  \n\n  Girls Novice A \u2026.. 6-Cara Kelly(V)  9\u2019 6\u201d  Niki Cleary(HVFC)  9\u2019 0\u201d   Dana Rokiczak(CS)  9\u2019 0\u201d\n\n   Girls Novice B\u2026. 4-Matea Freidel(Rye)  8\u2019 6\u201d (Pole Raffel Winner!)\n\n   Boys Novice   B\u2026. 8-JAKE DIAMOND(S)  8\u2019 6\u201d   MIKE GUGLIELMO(CS)  8\u2019 0\u201d MacKenzie LeRoy(HVFC)\n\n   Girls HS Championship\u2026. 1-Emily Savage(Weston)  12\u2019 0\u201d  2-Jenna Calandro(Newown,CT)  11\u2019 6\u201d  6-Maddie Schneider(Darien,CT)  11\u2019 0\u201d  Kara Snyder(C) 11\u2019 0\u201d  Marisa Robbins)G) 11\u2019 0\u201d  Kali Manly(BH) 10\u2019 6\u201d\n\n    Boys HS Championship\u2026. 3-Peter Fagan(W)  15\u2019 6\u201d  4-Justin Farrenkopf(E) 15\u2019 0\u201d  5-Derek DiBona(Warwick) 14\u2019 6\u201d  6-Karl Nelsen(SW) 14\u2019 0\u201d  Whit Oehler-Marx(NP) 13\u2019 6\u201d  James Deutmeyer(FP)  13\u2019 6\u201d   Chris Rough(WH) 13\u2019 6\u201d   Luke Annichiarica(OT)  13\u2019 0\u201d  Pat Lynch(C)  12\u2019 6\u201d\n\n   Open Women\u20261-Sydnie LeRoy(HVFC)  12\u2019 0\u201d  Maddesen Weekes(HVFC)  10\u2019 0\u201d  Dana Fineman(HVFC).. 9\u20196\u201d  Jessica Sector(HVFC)\n\n   Open Men\u2026. TJ Murphy(HVFC)  14\u2019 0\u201d  Ben Simonet(HVFC)  13\u2019 6\u201d  Jordan Subai(HVFC)  13\u2019 0\u201d  Jason Sector(HVFC)  13\u2019 0\u201d  Nick Perez(HVFC)\n\n   Mens Masters\u2026. 2-Will Nesbitt(HVFC)   12\u2019 0\u201d\n\n<hr>\n\n  SPECIAL THANKS  \u2026 to Coach Will Nesbitt and Coach Ben Simonet for delivering  our new MONDO SUPER X PERFORMANCE RUNWAYS for our Fall  classes..and to Todd Uckermarl and derek DiBona for helping  with the installation!!!!!    FASTEST RUNWAY in the WORLD !!!!!\n\n   New Fall Pole Vault Class Schedule coming  soon\u2026\n\n   Check our new Web Site for all details\u2026..\n\n     \u201dReach for Heaven\u201d\u2026\u2026. FLYING CIRCUS.",
+    "CreatedAt": "2013-12-20 07:33:32"
+  },
+  {
+    "Id": 74,
+    "Title": "FLYING CIRCUS\u2026..  \"HOME of the FASTEST POLE VAULT RUNWAY  on the PLANET\" !!!!!!!!",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/newRunway.png\" />\n\nSpecial thanks to Coach Will  Nesbitt  ..Coach Ben Simonet \u2026Dereck DiBona\u2026and Todd  Uckermark for installing our new MONDO SUPER. X PERFORMANCE HIGH SPEED RUNWAY  at   The Flying Circus  Warwick Center for Pole Vault Development\u2026..   New Fall Classes begin September 9 \u2026\u2026   Stay tuned !!!!!!!!",
+    "CreatedAt": "2013-12-20 07:35:24"
+  },
+  {
+    "Id": 75,
+    "Title": "newRunway",
+    "Content": "",
+    "CreatedAt": "2013-12-20 07:34:54"
+  },
+  {
+    "Id": 76,
+    "Title": "FLYING CIRCUS\u2026..  \u201dHOME of the FASTEST POLE VAULT RUNWAY  on the PLANET\u201d !!!!!!!!",
+    "Content": "<img scr=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/newRunway.png\" />\n\nSpecial thanks to Coach Will  Nesbitt  ..Coach Ben Simonet \u2026Dereck DiBona\u2026and Todd  Uckermark for installing our new MONDO SUPER. X PERFORMANCE HIGH SPEED RUNWAY  at   The Flying Circus  Warwick Center for Pole Vault Development\u2026..   New Fall Classes begin September 9 \u2026\u2026   Stay tuned !!!!!!!!",
+    "CreatedAt": "2013-12-20 07:35:24"
+  },
+  {
+    "Id": 77,
+    "Title": "FLYING CIRCUS\u2026..  \u201dHOME of the FASTEST POLE VAULT RUNWAY  on the PLANET\u201d !!!!!!!!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/newRunway.png\" />\n\nSpecial thanks to Coach Will  Nesbitt  ..Coach Ben Simonet \u2026Dereck DiBona\u2026and Todd  Uckermark for installing our new MONDO SUPER. X PERFORMANCE HIGH SPEED RUNWAY  at   The Flying Circus  Warwick Center for Pole Vault Development\u2026..   New Fall Classes begin September 9 \u2026\u2026   Stay tuned !!!!!!!!",
+    "CreatedAt": "2013-12-20 07:35:42"
+  },
+  {
+    "Id": 78,
+    "Title": "FLYING CIRCUS\u2026..  \"HOME of the FASTEST POLE VAULT RUNWAY  on the PLANET\" !!!!!!!!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/newRunway.png\" />\n\nSpecial thanks to Coach Will  Nesbitt  ..Coach Ben Simonet \u2026Dereck DiBona\u2026and Todd  Uckermark for installing our new MONDO SUPER. X PERFORMANCE HIGH SPEED RUNWAY  at   The Flying Circus  Warwick Center for Pole Vault Development\u2026..   New Fall Classes begin September 9 \u2026\u2026   Stay tuned !!!!!!!!",
+    "CreatedAt": "2013-12-20 07:36:02"
+  },
+  {
+    "Id": 79,
+    "Title": "CIRCUS FALL VAULTING COMING SEPTEMBER 9!!! JOIN THE FUN!!!",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/classicHVFC.png\" />\n\nThe \u201dBARN DOORS\u201d are about to swing open for  the preparation  of the exciting Indoor Track & Field Season that will soon be happening at The New Balance Track & Field Center Armory  in New York City!!!  It\u2019s  time to get ready for all the fun and competition \u2026.  Join us as often as possible!\n\n<b>Our fall practice and meet schedules are now available online <a href=\"http://www.hvflyingcircus.com/schedule.html\">here</a>.</b>\n\nA few things to note:\n\nALL ATHLETES taking part in any and all activities of the Hudson Valley Flying Circus  must  have up dated membership in USATF\u2026 Register at <a href=\"http://usatf.org/membership\">usatf.org/membership</a> for the coming year.\nPOLE VAULTING POLE RENTAL PROGRAM has been discontinued at the Flying Circus\u2026. as well as lending  out overnight poles to athletes. All athletics should  talk to your High School Coaches ASAP in regard to providing poles for you this Indoor and Outdoor seasons.\nWhen ordering your poles\u2026 please specify UCS Spirit Pole Vaulting Poles\u2026the most reliable  pole vaulting poles made. Contact <a href=\"mfathletic.com\">mfathletic.com</a> for your ordering of UCS Spirit Vaulting Poles and Equipment!!!!!\nIt will be hard to duplicate this years success at The FLYING CIRCUS\u2026\n\n6 NATIONAL PV TITLES\n13 STATE POLE VAULTING  CHAMPIONS\n9 ALL AMERICANS\n123 CLUB MEMBERS\nBut\u2026 WE ARE STARTING THE  NEW CHALLENGE on SEPTEMBER 9th\u2026..  JOIN THE SURGE!!!!!\n\nPOSITIVELY POLE VAULT \u2026..\u201dFLYING CIRCUS\u201d",
+    "CreatedAt": "2013-12-20 07:39:08"
+  },
+  {
+    "Id": 80,
+    "Title": "",
+    "Content": "The \u201dBARN DOORS\u201d are about to swing open for  the preparation  of the exciting Indoor Track & Field Season that will soon be happening at The New Balance Track & Field Center Armory  in New York City!!!  It\u2019s  time to get ready for all the fun and competition \u2026.  Join us as often as possible!\n\n<b>Our fall practice and meet schedules are now available online <a href=\"http://www.hvflyingcircus.com/schedule.html\">here</a>.</b>\n\nA few things to note:\n\nALL ATHLETES taking part in any and all activities of the Hudson Valley Flying Circus  must  have up dated membership in USATF\u2026 Register at usatf.org/membership for the coming year.\nPOLE VAULTING POLE RENTAL PROGRAM has been discontinued at the Flying Circus\u2026. as well as lending  out overnight poles to athletes. All athletics should  talk to your High School Coaches ASAP in regard to providing poles for you this Indoor and Outdoor seasons.\nWhen ordering your poles\u2026 please specify UCS Spirit Pole Vaulting Poles\u2026the most reliable  pole vaulting poles made.  Contact   mfathletic.com for your ordering of UCS Spirit Vaulting Poles and Equipment!!!!!\nIt will be hard to duplicate this years success at The FLYING CIRCUS\u2026\n\n6 NATIONAL PV TITLES\n13 STATE POLE VAULTING  CHAMPIONS\n9 ALL AMERICANS\n123 CLUB MEMBERS\nBut\u2026 WE ARE STARTING THE  NEW CHALLENGE on SEPTEMBER 9th\u2026..  JOIN THE SURGE!!!!!\n\nPOSITIVELY POLE VAULT \u2026..\u201dFLYING CIRCUS\u201d",
+    "CreatedAt": "2013-12-20 07:39:08"
+  },
+  {
+    "Id": 81,
+    "Title": "",
+    "Content": "The \u201dBARN DOORS\u201d are about to swing open for  the preparation  of the exciting Indoor Track & Field Season that will soon be happening at The New Balance Track & Field Center Armory  in New York City!!!  It\u2019s  time to get ready for all the fun and competition \u2026.  Join us as often as possible!\n\n<b>Our fall practice and meet schedules are now available online <a href=\"http://www.hvflyingcircus.com/schedule.html\">here</a>.</b>\n\nA few things to note:\n\nALL ATHLETES taking part in any and all activities of the Hudson Valley Flying Circus  must  have up dated membership in USATF\u2026 Register at <a href=\"http://usatf.org/membership\">usatf.org/membership</a> for the coming year.\nPOLE VAULTING POLE RENTAL PROGRAM has been discontinued at the Flying Circus\u2026. as well as lending  out overnight poles to athletes. All athletics should  talk to your High School Coaches ASAP in regard to providing poles for you this Indoor and Outdoor seasons.\nWhen ordering your poles\u2026 please specify UCS Spirit Pole Vaulting Poles\u2026the most reliable  pole vaulting poles made.  Contact   mfathletic.com for your ordering of UCS Spirit Vaulting Poles and Equipment!!!!!\nIt will be hard to duplicate this years success at The FLYING CIRCUS\u2026\n\n6 NATIONAL PV TITLES\n13 STATE POLE VAULTING  CHAMPIONS\n9 ALL AMERICANS\n123 CLUB MEMBERS\nBut\u2026 WE ARE STARTING THE  NEW CHALLENGE on SEPTEMBER 9th\u2026..  JOIN THE SURGE!!!!!\n\nPOSITIVELY POLE VAULT \u2026..\u201dFLYING CIRCUS\u201d",
+    "CreatedAt": "2013-12-20 07:39:36"
+  },
+  {
+    "Id": 82,
+    "Title": "",
+    "Content": "The \u201dBARN DOORS\u201d are about to swing open for  the preparation  of the exciting Indoor Track & Field Season that will soon be happening at The New Balance Track & Field Center Armory  in New York City!!!  It\u2019s  time to get ready for all the fun and competition \u2026.  Join us as often as possible!\n\n<b>Our fall practice and meet schedules are now available online <a href=\"http://www.hvflyingcircus.com/schedule.html\">here</a>.</b>\n\nA few things to note:\n\nALL ATHLETES taking part in any and all activities of the Hudson Valley Flying Circus  must  have up dated membership in USATF\u2026 Register at <a href=\"http://usatf.org/membership\">usatf.org/membership</a> for the coming year.\nPOLE VAULTING POLE RENTAL PROGRAM has been discontinued at the Flying Circus\u2026. as well as lending  out overnight poles to athletes. All athletics should  talk to your High School Coaches ASAP in regard to providing poles for you this Indoor and Outdoor seasons.\nWhen ordering your poles\u2026 please specify UCS Spirit Pole Vaulting Poles\u2026the most reliable  pole vaulting poles made. Contact <a href=\"mfathletic.com\">mfathletic.com</a> for your ordering of UCS Spirit Vaulting Poles and Equipment!!!!!\nIt will be hard to duplicate this years success at The FLYING CIRCUS\u2026\n\n6 NATIONAL PV TITLES\n13 STATE POLE VAULTING  CHAMPIONS\n9 ALL AMERICANS\n123 CLUB MEMBERS\nBut\u2026 WE ARE STARTING THE  NEW CHALLENGE on SEPTEMBER 9th\u2026..  JOIN THE SURGE!!!!!\n\nPOSITIVELY POLE VAULT \u2026..\u201dFLYING CIRCUS\u201d",
+    "CreatedAt": "2013-12-20 07:40:25"
+  },
+  {
+    "Id": 83,
+    "Title": "classicHVFC",
+    "Content": "",
+    "CreatedAt": "2013-12-20 07:40:54"
+  },
+  {
+    "Id": 84,
+    "Title": "CIRCUS FALL VAULTING COMING SEPTEMBER 9!!! JOIN THE FUN!!!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/classicHVFC.png\" />\n\nThe \u201dBARN DOORS\u201d are about to swing open for  the preparation  of the exciting Indoor Track & Field Season that will soon be happening at The New Balance Track & Field Center Armory  in New York City!!!  It\u2019s  time to get ready for all the fun and competition \u2026.  Join us as often as possible!\n\n<b>Our fall practice and meet schedules are now available online <a href=\"http://www.hvflyingcircus.com/schedule.html\">here</a>.</b>\n\nA few things to note:\n\nALL ATHLETES taking part in any and all activities of the Hudson Valley Flying Circus  must  have up dated membership in USATF\u2026 Register at <a href=\"http://usatf.org/membership\">usatf.org/membership</a> for the coming year.\nPOLE VAULTING POLE RENTAL PROGRAM has been discontinued at the Flying Circus\u2026. as well as lending  out overnight poles to athletes. All athletics should  talk to your High School Coaches ASAP in regard to providing poles for you this Indoor and Outdoor seasons.\nWhen ordering your poles\u2026 please specify UCS Spirit Pole Vaulting Poles\u2026the most reliable  pole vaulting poles made. Contact <a href=\"mfathletic.com\">mfathletic.com</a> for your ordering of UCS Spirit Vaulting Poles and Equipment!!!!!\nIt will be hard to duplicate this years success at The FLYING CIRCUS\u2026\n\n6 NATIONAL PV TITLES\n13 STATE POLE VAULTING  CHAMPIONS\n9 ALL AMERICANS\n123 CLUB MEMBERS\nBut\u2026 WE ARE STARTING THE  NEW CHALLENGE on SEPTEMBER 9th\u2026..  JOIN THE SURGE!!!!!\n\nPOSITIVELY POLE VAULT \u2026..\u201dFLYING CIRCUS\u201d",
+    "CreatedAt": "2013-12-20 07:41:27"
+  },
+  {
+    "Id": 85,
+    "Title": "CIRCUS FALL VAULTING COMING SEPTEMBER 9!!! JOIN THE FUN!!!",
+    "Content": "<img src=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/classicHVFC.png\" />\n\nThe \u201dBARN DOORS\u201d are about to swing open for  the preparation  of the exciting Indoor Track & Field Season that will soon be happening at The New Balance Track & Field Center Armory  in New York City!!!  It\u2019s  time to get ready for all the fun and competition \u2026.  Join us as often as possible!\n\n<b>Our fall practice and meet schedules are now available online <a href=\"http://www.hvflyingcircus.com/schedule.html\">here</a>.</b>\n\nA few things to note:\n\nALL ATHLETES taking part in any and all activities of the Hudson Valley Flying Circus  must  have up dated membership in USATF\u2026 Register at <a href=\"http://usatf.org/membership\">usatf.org/membership</a> for the coming year.\nPOLE VAULTING POLE RENTAL PROGRAM has been discontinued at the Flying Circus\u2026. as well as lending  out overnight poles to athletes. All athletics should  talk to your High School Coaches ASAP in regard to providing poles for you this Indoor and Outdoor seasons.\nWhen ordering your poles\u2026 please specify UCS Spirit Pole Vaulting Poles\u2026the most reliable  pole vaulting poles made. Contact <a href=\"mfathletic.com\">mfathletic.com</a> for your ordering of UCS Spirit Vaulting Poles and Equipment!!!!!\nIt will be hard to duplicate this years success at The FLYING CIRCUS\u2026\n\n6 NATIONAL PV TITLES\n13 STATE POLE VAULTING  CHAMPIONS\n9 ALL AMERICANS\n123 CLUB MEMBERS\nBut\u2026 WE ARE STARTING THE  NEW CHALLENGE on SEPTEMBER 9th\u2026..  JOIN THE SURGE!!!!!\n\nPOSITIVELY POLE VAULT \u2026..\u201dFLYING CIRCUS\u201d",
+    "CreatedAt": "2013-12-20 07:41:42"
+  },
+  {
+    "Id": 86,
+    "Title": "WINTER HVFC CAMP MEMBERSHIP REGISTRATION OPENS SEPTEMBER 1!!!",
+    "Content": "The form will be available under the \u201cforms\u201d tab that day, and will also be sent via email.\n\nMore information to come\u2026",
+    "CreatedAt": "2013-12-20 07:43:03"
+  },
+  {
+    "Id": 87,
+    "Title": "WINTER HVFC CAMP MEMBERSHIP REGISTRATION OPENS SEPTEMBER 1!!!",
+    "Content": "The form will be available under the \u201cforms\u201d tab that day, and will also be sent via email.\n\nMore information to come\u2026",
+    "CreatedAt": "2013-12-20 07:43:03"
+  },
+  {
+    "Id": 88,
+    "Title": "JOIN-the-MOVEMENT - WINTER CLUB MEMBERSHIP REGISTRATION opens SEPT 1 @ Noon!!!",
+    "Content": "<img src=\"http://www.hvflyingcircus.com/wp-content/uploads/2013/12/barnPic.png\" />\n\nThe LAUNCHING PAD is in place\u2026. and The POLE VAULT ROCKET is about to BLAST -OFF!!!\n\n     \u2026.. WELCOME to another exciting year at the FLYING CIRCUS POLE VAULT ACADEMY.  Our programs have been expanded to meet the needs of our Beginners\u2026Intermediates   and our Elite Pole Vaulters in Middle School\u2026High School  and Open/Masters programs\u2026 We invite you to ..\u201dJOIN-the- POLE VAULT MOVEMENT\u201d here at FLYING CIRCUS  this Fall\u2026Winter   and Spring seasons.\n\n    REGISTRATION FORMS for our very LIMITED WINTER POLE VAULT CLUB will be  available on September 1  beginning at  12 Noon  on our NEW & IMPROVED WEB SITE (www.hvflyingcircus.com)  and here at our Flying Circus  e-mail NEWSLETTER \u2026 Act Quickly..as the first 20 Boys  and the first 20 Girls  to Register will be  accepted\u2026 Avoid the WAITING LIST  and jump with us this winter in Warm conditions  and  a Positive Environment !!!!!\n\nBOYS CLUB  Meets Monday and Wednesdays  Class 1..5:30-7PM   Class 2\u20267:00-8;30PM\nGIRLS CLUB  Meets Tuesday and Thursdays    Class 1\u20265:30-7PM   Class 2\u20267:00-8:30PM\nFALL VAULTING BEGINS Monday  September 9 !!!!\n\nIt\u2019s time to get a JUMP-START on your competition\u2026. \n\nMondays\u2026. Girls Elite 5:30-7Pm  Boys Elite\u20267-8:30PM\nTuesdays..  Girls Begin/Intermediate 5:30-7PM  Boys  Begin/Intermediate 7-8:30PM\nWednesdays..Private  Lessons By Appointment\nThursday..  Girls Begin/Intermediate 5:30-7PM  Boys Begin/Intermediate 7-8:30PM\nFridays\u2026.Girls Elite 5:30-7PM   Boys Elite\u20267-8:30PM\nSaturdays\u2026.Private Lessons By Appointment\nSundays..  Girls Open\u20261-2:30Pm     Boys Open  2:30-4PM\nGirls Level 3.. 11\u2019 0\u201d PR and Up\nBoys Level 3 .. 13\u2019 0\u201d PR and Up\n FLYING CIRCUS\u2026\u2026 INVESTING-in-KIDS",
+    "CreatedAt": "2013-12-20 07:46:43"
+  },
+  {
+    "Id": 89,
+    "Title": "barnPic",
+    "Content": "",
+    "CreatedAt": "2013-12-20 07:46:13"
+  },
+  {
+    "Id": 90,
+    "Title": "JOIN-the-MOVEMENT - WINTER CLUB MEMBERSHIP REGISTRATION opens SEPT 1 @ Noon!!!",
+    "Content": "<img href=\"http://localhost:8888/wordpress-hvfc/wp-content/uploads/2013/12/barnPic.png\" />\n\nThe LAUNCHING PAD is in place\u2026. and The POLE VAULT ROCKET is about to BLAST -OFF!!!\n\n     \u2026.. WELCOME to another exciting year at the FLYING CIRCUS POLE VAULT ACADEMY.  Our programs have been expanded to meet the needs of our Beginners\u2026Intermediates   and our Elite Pole Vaulters in Middle School\u2026High School  and Open/Masters programs\u2026 We invite you to ..\u201dJOIN-the- POLE VAULT MOVEMENT\u201d here at FLYING CIRCUS  this Fall\u2026Winter   and Spring seasons.\n\n    REGISTRATION FORMS for our very LIMITED WINTER POLE VAULT CLUB will be  available on September 1  beginning at  12 Noon  on our NEW & IMPROVED WEB SITE (www.hvflyingcircus.com)  and here at our Flying Circus  e-mail NEWSLETTER \u2026 Act Quickly..as the first 20 Boys  and the first 20 Girls  to Register will be  accepted\u2026 Avoid the WAITING LIST  and jump with us this winter in Warm conditions  and  a Positive Environment !!!!!\n\nBOYS CLUB  Meets Monday and Wednesdays  Class 1..5:30-7PM   Class 2\u20267:00-8;30PM\nGIRLS CLUB  Meets Tuesday and Thursdays    Class 1\u20265:30-7PM   Class 2\u20267:00-8:30PM\nFALL VAULTING BEGINS Monday  September 9 !!!!\n\nIt\u2019s time to get a JUMP-START on your competition\u2026. \n\nMondays\u2026. Girls Elite 5:30-7Pm  Boys Elite\u20267-8:30PM\nTuesdays..  Girls Begin/Intermediate 5:30-7PM  Boys  Begin/Intermediate 7-8:30PM\nWednesdays..Private  Lessons By Appointment\nThursday..  Girls Begin/Intermediate 5:30-7PM  Boys Begin/Intermediate 7-8:30PM\nFridays\u2026.Girls Elite 5:30-7PM   Boys Elite\u20267-8:30PM\nSaturdays\u2026.Private Lessons By Appointment\nSundays..  Girls Open\u20261-2:30Pm     Boys Open  2:30-4PM\nGirls Level 3.. 11\u2019 0\u201d PR and Up\nBoys Level 3 .. 13\u2019 0\u201d PR and Up\n FLYING CIRCUS\u2026\u2026 INVESTING-in-KIDS",
+    "CreatedAt": "2013-12-20 07:46:43"
+  }
+]

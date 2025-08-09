@@ -1,9 +1,18 @@
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
+
+// Add Entity Framework
+builder.Services.AddDbContext<hvfc.Data.HvfcDbContext>(options =>
+    options.UseInMemoryDatabase("HvfcDb"));
+
+// Add Posts Loader Service
+builder.Services.AddHostedService<hvfc.Services.PostsLoaderService>();
 
 // Add CORS
 builder.Services.AddCors(options =>
@@ -17,6 +26,13 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+
+// Ensure database is created (posts will be loaded by PostsLoaderService)
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<hvfc.Data.HvfcDbContext>();
+    context.Database.EnsureCreated();
+}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

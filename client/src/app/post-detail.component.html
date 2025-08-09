@@ -1,0 +1,27 @@
+<header class="main-header">
+  <h1>{{ post() ? post()!.title : 'Hudson Valley Flying Circus' }}</h1>
+  <nav class="main-nav">
+    <a href="#" (click)="navigateHome(); $event.preventDefault()" class="nav-tab">← Back to Posts</a>
+  </nav>
+</header>
+
+<div class="main-content">
+  <div class="pole-vault-bar">
+    <div class="rubber-end"></div>
+    <div class="bar"></div>
+    <div class="rubber-end"></div>
+  </div>
+  
+  <div class="post-detail-content">
+    @if (loading()) {
+      <div class="loading">Loading post...</div>
+    } @else if (error()) {
+      <div class="error">{{ error() }}</div>
+    } @else if (post()) {
+      <article class="post-detail">
+        <div class="post-date">{{ formatDate(post()!.createdAt) }}</div>
+        <div class="post-content" [innerHTML]="sanitizeHtml(post()!.content)"></div>
+      </article>
+    }
+  </div>
+</div>
