@@ -42,8 +42,21 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-// Use CORS
-app.UseCors("AllowAngularClient");
+// Use CORS only in development
+if (app.Environment.IsDevelopment())
+{
+    app.UseCors("AllowAngularClient");
+}
+
+// In production, use forwarded headers from Nginx
+if (!app.Environment.IsDevelopment())
+{
+    app.UseForwardedHeaders(new ForwardedHeadersOptions
+    {
+        ForwardedHeaders = Microsoft.AspNetCore.HttpOverrides.ForwardedHeaders.XForwardedFor | 
+                          Microsoft.AspNetCore.HttpOverrides.ForwardedHeaders.XForwardedProto
+    });
+}
 
 // Serve static files (Angular app)
 app.UseDefaultFiles();
