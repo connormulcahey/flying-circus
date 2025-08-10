@@ -40,7 +40,11 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-app.UseHttpsRedirection();
+// Don't use HTTPS redirection in production (nginx handles SSL)
+if (app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
 
 // Use CORS only in development
 if (app.Environment.IsDevelopment())
