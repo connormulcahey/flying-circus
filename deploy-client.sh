@@ -31,15 +31,19 @@ sudo rm -rf $APP_DIR/wwwroot/*
 echo "Copying new client files..."
 sudo cp -r $SOURCE_DIR/api/wwwroot/browser/* $APP_DIR/wwwroot/
 
-# 5. Set proper permissions
+# 5. Sync images efficiently (only copy new/changed images)
+echo "Syncing images..."
+sudo rsync -av --delete $SOURCE_DIR/images/ $APP_DIR/wwwroot/images/
+
+# 6. Set proper permissions
 echo "Setting permissions..."
 sudo chown -R www-data:www-data $APP_DIR/wwwroot
 
-# 6. Start the service
+# 7. Start the service
 echo "Starting hvfc service..."
 sudo systemctl start hvfc
 
-# 7. Check service status
+# 8. Check service status
 echo "Checking service status..."
 sudo systemctl status hvfc --no-pager
 

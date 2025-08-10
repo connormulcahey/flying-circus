@@ -5,13 +5,14 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { PostsService, Post, PagedResult } from './posts.service';
 import { NavigationComponent } from './navigation.component';
 import { AboutComponent } from './about.component';
+import { StaffComponent } from './staff.component';
 
 @Component({
   selector: 'app-main',
   templateUrl: './app.html',
   styleUrl: './app.scss',
   standalone: true,
-  imports: [RouterLink, NavigationComponent, AboutComponent]
+  imports: [RouterLink, NavigationComponent, AboutComponent, StaffComponent]
 })
 export class App implements OnInit {
   posts = signal<Post[]>([]);
@@ -89,6 +90,13 @@ export class App implements OnInit {
     this.currentView.set(view);
     if (view === 'posts' && this.posts().length === 0) {
       this.loadPosts(1);
+    }
+    // Reset scroll to top when switching tabs
+    window.scrollTo(0, 0);
+    // Reset sidebar scroll to top
+    const sidebar = document.querySelector('.blog-sidebar') as HTMLElement;
+    if (sidebar) {
+      sidebar.scrollTop = 0;
     }
   }
 
