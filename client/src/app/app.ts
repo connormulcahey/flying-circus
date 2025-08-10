@@ -3,13 +3,14 @@ import { HttpClient } from '@angular/common/http';
 import { RouterLink } from '@angular/router';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { PostsService, Post, PagedResult } from './posts.service';
+import { NavigationComponent } from './navigation.component';
 
 @Component({
   selector: 'app-main',
   templateUrl: './app.html',
   styleUrl: './app.scss',
   standalone: true,
-  imports: [RouterLink]
+  imports: [RouterLink, NavigationComponent]
 })
 export class App implements OnInit {
   posts = signal<Post[]>([]);

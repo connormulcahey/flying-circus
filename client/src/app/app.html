@@ -1,18 +1,9 @@
-<header class="main-header">
-  <h1>Hudson Valley Flying Circus</h1>
-  <nav class="main-nav">
-    <a href="#" (click)="navigateTo('posts'); $event.preventDefault()" [class.active]="currentView() === 'posts'" class="nav-tab">Posts</a>
-    <a href="#" (click)="navigateTo('facilities'); $event.preventDefault()" [class.active]="currentView() === 'facilities'" class="nav-tab">Facilities</a>
-    <a href="#" (click)="navigateTo('staff'); $event.preventDefault()" [class.active]="currentView() === 'staff'" class="nav-tab">Staff</a>
-  </nav>
-</header>
+<app-navigation 
+  [currentView]="currentView()" 
+  (navigate)="navigateTo($event)">
+</app-navigation>
 
 <div class="main-content">
-  <div class="pole-vault-bar">
-    <div class="rubber-end"></div>
-    <div class="bar"></div>
-    <div class="rubber-end"></div>
-  </div>
   
   <div class="blog-content">
     @if (currentView() === 'posts') {

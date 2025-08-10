@@ -2,12 +2,14 @@ import { Component, OnInit, ChangeDetectorRef, signal } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { PostsService, Post } from './posts.service';
+import { NavigationComponent } from './navigation.component';
 
 @Component({
   selector: 'app-post-detail',
   templateUrl: './post-detail.component.html',
   styleUrl: './post-detail.component.scss',
-  standalone: true
+  standalone: true,
+  imports: [NavigationComponent]
 })
 export class PostDetailComponent implements OnInit {
   post = signal<Post | null>(null);
