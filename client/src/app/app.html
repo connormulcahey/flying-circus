@@ -6,7 +6,11 @@
 <div class="main-content">
   
   <div class="blog-content">
-    @if (currentView() === 'posts') {
+    @if (currentView() === 'about') {
+      <div class="about-mobile-wrapper">
+        <app-about></app-about>
+      </div>
+    } @else if (currentView() === 'posts') {
       <div class="blog-posts">
         @if (loading()) {
           <div class="loading">Loading posts...</div>
