@@ -81,7 +81,7 @@
 .post-content h2, .post-content h3, .post-content h4 {
   color: #6203a3;
   margin: 1.5rem 0 1rem 0;
-  font-family: "Arvo", Georgia, Times, serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 :host ::ng-deep .post-content h2,
@@ -89,7 +89,7 @@
 :host ::ng-deep .post-content h4 {
   color: #6203a3 !important;
   margin: 1.5rem 0 1rem 0 !important;
-  font-family: "Arvo", Georgia, Times, serif !important;
+  font-family: Helvetica, Arial, sans-serif !important;
 }
 
 .post-content a {
