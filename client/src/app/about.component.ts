@@ -70,6 +70,33 @@ import { Component } from '@angular/core';
       padding: 1rem;
       margin-top: 1rem;
       border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+    @media (max-width: 600px) {
+      .about-content {
+        width: 80%;
+        margin: 0 auto;
+        padding: 0;
+      }
+
+      .bulletins-box {
+        width: 100%;
+        margin: 1rem 0;
+        padding: 0.8rem;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        box-sizing: border-box;
+      }
+
+      h2, h3 {
+        word-wrap: break-word;
+      }
+
+      p {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+      }
     }
   `]
 })
