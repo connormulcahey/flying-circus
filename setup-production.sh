@@ -48,7 +48,7 @@ fi
 
 echo "Building application from source..."
 cd $SOURCE_DIR/client
-npm install --production
+npm ci
 npm run build -- --configuration production
 
 # Copy built files to deployment directory
