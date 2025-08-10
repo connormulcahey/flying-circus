@@ -30,6 +30,7 @@ echo "npm version: $(npm --version)"
 # 2. Create application directory
 echo "Setting up application directory..."
 sudo mkdir -p $APP_DIR
+sudo mkdir -p $APP_DIR/api
 sudo chown -R $USER:www-data $APP_DIR
 sudo chmod -R 755 $APP_DIR
 
@@ -55,10 +56,14 @@ npm run build -- --configuration production
 echo "Copying built files to deployment directory..."
 # Angular build outputs directly to ../api/wwwroot, so we copy the entire api directory
 sudo cp -r $SOURCE_DIR/api/* $APP_DIR/api/
-sudo cp $SOURCE_DIR/posts.json $APP_DIR/
+sudo cp $SOURCE_DIR/posts.json $APP_DIR/api/
+
+# Set correct ownership for entire api directory
+sudo chown -R www-data:www-data $APP_DIR/api
+sudo chmod -R 755 $APP_DIR/api
 
 cd $APP_DIR/api
-sudo dotnet publish -c Release -o ./publish
+sudo dotnet publish -c Release -o .
 
 # 5. Set up Nginx
 echo "Configuring Nginx..."
@@ -72,7 +77,7 @@ echo "Setting up systemd service..."
 sudo cp $SOURCE_DIR/hvfc.service /etc/systemd/system/
 sudo systemctl daemon-reload
 sudo systemctl enable hvfc
-sudo systemctl start hvfc
+sudo systemctl restart hvfc
 
 # 7. Set up firewall
 echo "Configuring firewall..."
