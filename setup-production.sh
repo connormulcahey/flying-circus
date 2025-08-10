@@ -53,7 +53,7 @@ npm run build -- --configuration production
 
 # Copy built files to deployment directory
 echo "Copying built files to deployment directory..."
-sudo cp -r $SOURCE_DIR/client/dist/client/* $APP_DIR/
+# Angular build outputs directly to ../api/wwwroot, so we copy the entire api directory
 sudo cp -r $SOURCE_DIR/api/* $APP_DIR/api/
 sudo cp $SOURCE_DIR/posts.json $APP_DIR/
 
