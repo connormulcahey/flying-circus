@@ -4,13 +4,14 @@ import { RouterLink } from '@angular/router';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { PostsService, Post, PagedResult } from './posts.service';
 import { NavigationComponent } from './navigation.component';
+import { AboutComponent } from './about.component';
 
 @Component({
   selector: 'app-main',
   templateUrl: './app.html',
   styleUrl: './app.scss',
   standalone: true,
-  imports: [RouterLink, NavigationComponent]
+  imports: [RouterLink, NavigationComponent, AboutComponent]
 })
 export class App implements OnInit {
   posts = signal<Post[]>([]);
@@ -30,7 +31,16 @@ export class App implements OnInit {
   ) {}
 
   ngOnInit() {
-    this.loadPosts(1);
+    // Check if mobile view, set default to about
+    if (this.isMobileView()) {
+      this.currentView.set('about');
+    } else {
+      this.loadPosts(1);
+    }
+  }
+
+  isMobileView(): boolean {
+    return window.innerWidth <= 600;
   }
 
   loadPosts(page: number) {
@@ -77,6 +87,9 @@ export class App implements OnInit {
 
   navigateTo(view: string) {
     this.currentView.set(view);
+    if (view === 'posts' && this.posts().length === 0) {
+      this.loadPosts(1);
+    }
   }
 
   getPageNumbers(): number[] {

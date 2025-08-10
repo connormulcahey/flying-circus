@@ -87,6 +87,29 @@ h2, h3, h4 {
   position: relative;
 }
 
+@media (max-width: 600px) {
+  .blog-content {
+    display: block;
+  }
+  
+  .blog-sidebar {
+    display: none;
+  }
+  
+  .blog-posts {
+    width: 100% !important;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+
+  .facilities-content,
+  .staff-content {
+    width: 100% !important;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+
 .blog-posts {
   width: 70%;
   padding-right: 2rem;

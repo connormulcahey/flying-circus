@@ -1,0 +1,41 @@
+<header class="main-header">
+  <h1>Hudson Valley Flying Circus</h1>
+  <nav class="main-nav">
+    @if (showBackButton) {
+      <a href="#" (click)="onBackClick($event)" class="nav-tab back-link">← Back to Posts</a>
+    } @else {
+      <!-- Desktop navigation -->
+      <div class="desktop-nav">
+        <a href="#" 
+           (click)="onNavigate('posts', $event)" 
+           [class]="'nav-tab ' + (currentView === 'posts' ? 'active' : '')">Posts</a>
+        <a href="#" 
+           (click)="onNavigate('facilities', $event)" 
+           [class]="'nav-tab ' + (currentView === 'facilities' ? 'active' : '')">Facilities</a>
+        <a href="#" 
+           (click)="onNavigate('staff', $event)" 
+           [class]="'nav-tab ' + (currentView === 'staff' ? 'active' : '')">Staff</a>
+      </div>
+      <!-- Mobile navigation -->
+      <div class="mobile-nav">
+        <a href="#" 
+           (click)="onNavigate('about', $event)" 
+           [class]="'nav-tab ' + (currentView === 'about' ? 'active' : '')">About</a>
+        <a href="#" 
+           (click)="onNavigate('posts', $event)" 
+           [class]="'nav-tab ' + (currentView === 'posts' ? 'active' : '')">Posts</a>
+        <a href="#" 
+           (click)="onNavigate('facilities', $event)" 
+           [class]="'nav-tab ' + (currentView === 'facilities' ? 'active' : '')">Facilities</a>
+        <a href="#" 
+           (click)="onNavigate('staff', $event)" 
+           [class]="'nav-tab ' + (currentView === 'staff' ? 'active' : '')">Staff</a>
+      </div>
+    }
+  </nav>
+</header>
+<div class="pole-vault-bar">
+  <div class="rubber-end"></div>
+  <div class="bar"></div>
+  <div class="rubber-end"></div>
+</div>
