@@ -16,7 +16,16 @@ DOMAIN="hvflyingcircus.com"
 # 1. Install dependencies
 echo "Installing dependencies..."
 sudo apt update
-sudo apt install -y nginx certbot python3-certbot-nginx
+sudo apt install -y nginx certbot python3-certbot-nginx curl
+
+# Install Node.js 20.x
+echo "Installing Node.js 20.x..."
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+# Verify Node.js version
+echo "Node.js version: $(node --version)"
+echo "npm version: $(npm --version)"
 
 # 2. Create application directory
 echo "Setting up application directory..."
