@@ -69,6 +69,8 @@ sudo dotnet publish -c Release -o .
 echo "Configuring Nginx..."
 sudo cp $SOURCE_DIR/nginx.conf /etc/nginx/sites-available/$NGINX_SITE
 sudo ln -sf /etc/nginx/sites-available/$NGINX_SITE /etc/nginx/sites-enabled/
+# Remove default nginx site to avoid conflicts
+sudo rm -f /etc/nginx/sites-enabled/default
 sudo nginx -t
 sudo systemctl reload nginx
 
