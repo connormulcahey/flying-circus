@@ -8,6 +8,7 @@ set -e
 echo "=== Hudson Valley Flying Circus Production Setup ==="
 
 # Variables
+SOURCE_DIR="$HOME/flying-circus"
 APP_DIR="/var/www/hvfc"
 NGINX_SITE="hvfc"
 DOMAIN="hvflyingcircus.com"
@@ -23,30 +24,43 @@ sudo mkdir -p $APP_DIR
 sudo chown -R $USER:www-data $APP_DIR
 sudo chmod -R 755 $APP_DIR
 
-# 3. Copy application files (assuming files are in current directory)
-echo "Copying application files..."
-# Note: You should have already copied files to the server before running this
-# rsync -av --exclude 'node_modules' --exclude '.git' ./ $APP_DIR/
+# 3. Check source directory and build from source
+echo "Checking source directory..."
+if [ ! -d "$SOURCE_DIR" ]; then
+    echo "ERROR: Source directory not found at $SOURCE_DIR"
+    echo ""
+    echo "Please clone your repository to ~/flying-circus first:"
+    echo "  cd ~"
+    echo "  git clone <your-repo-url> flying-circus"
+    echo "  # or copy files to ~/flying-circus/"
+    echo ""
+    exit 1
+fi
 
-# 4. Build the application
-echo "Building application..."
-cd $APP_DIR/client
+echo "Building application from source..."
+cd $SOURCE_DIR/client
 npm install --production
 npm run build -- --configuration production
 
+# Copy built files to deployment directory
+echo "Copying built files to deployment directory..."
+sudo cp -r $SOURCE_DIR/client/dist/client/* $APP_DIR/
+sudo cp -r $SOURCE_DIR/api/* $APP_DIR/api/
+sudo cp $SOURCE_DIR/posts.json $APP_DIR/
+
 cd $APP_DIR/api
-dotnet publish -c Release -o ./publish
+sudo dotnet publish -c Release -o ./publish
 
 # 5. Set up Nginx
 echo "Configuring Nginx..."
-sudo cp $APP_DIR/nginx.conf /etc/nginx/sites-available/$NGINX_SITE
+sudo cp $SOURCE_DIR/nginx.conf /etc/nginx/sites-available/$NGINX_SITE
 sudo ln -sf /etc/nginx/sites-available/$NGINX_SITE /etc/nginx/sites-enabled/
 sudo nginx -t
 sudo systemctl reload nginx
 
 # 6. Set up systemd service
 echo "Setting up systemd service..."
-sudo cp $APP_DIR/hvfc.service /etc/systemd/system/
+sudo cp $SOURCE_DIR/hvfc.service /etc/systemd/system/
 sudo systemctl daemon-reload
 sudo systemctl enable hvfc
 sudo systemctl start hvfc

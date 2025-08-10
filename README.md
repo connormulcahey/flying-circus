@@ -61,3 +61,33 @@ dotnet publish -c Release
 ```
 
 The Angular app will be built to `api/wwwroot` and served by the .NET application.
+
+## Production Deployment
+
+To deploy to your production server:
+
+1. **Copy files to server**:
+   ```bash
+   # From your local machine, copy the project to ~/flying-circus on the server
+   scp -r . user@your-server:~/flying-circus/
+   ```
+
+2. **Run setup script on server**:
+   ```bash
+   ssh user@your-server
+   cd ~/flying-circus
+   chmod +x setup-production.sh
+   ./setup-production.sh
+   ```
+
+The setup script will:
+- Install dependencies (nginx, certbot, .NET)
+- Build the application from source in `~/flying-circus`
+- Deploy to `/var/www/hvfc`
+- Configure nginx and systemd service
+- Set up firewall rules
+
+3. **Set up SSL** (optional):
+   ```bash
+   sudo certbot --nginx -d yourdomain.com -d www.yourdomain.com
+   ```
