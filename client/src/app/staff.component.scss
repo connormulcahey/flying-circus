@@ -7,6 +7,15 @@
   overflow-x: hidden;
 }
 
+// Mobile styles to override the width when sidebar is hidden
+@media (max-width: 600px) {
+  .staff-content {
+    width: 100% !important;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+
 #mainContentWrapper {
   max-width: 100%;
 }
