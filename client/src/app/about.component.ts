@@ -46,7 +46,7 @@ import { Component } from '@angular/core';
     }
 
     h2 {
-      color: #228B22;
+      color: #6203a3;
       font-family: Helvetica, Arial, sans-serif;
       font-size: 1rem;
       margin: 1rem 0 0.5rem 0;
@@ -60,7 +60,7 @@ import { Component } from '@angular/core';
     }
 
     a {
-      color: #228B22;
+      color: #6203a3;
       text-decoration: none;
     }
 
