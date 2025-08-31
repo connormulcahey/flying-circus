@@ -15,6 +15,14 @@ import { Component } from '@angular/core';
       </p>
 
       <h2>Bullitens</h2>
+
+      <div class="bulletins-box">
+        <h3>OPEN SMALL GROUP VAULT SESSIONS</h3>
+        <p>Every Sunday & Wednesday</p>
+        <p>September and October</p>
+        <p>Club Membership Required</p>
+        <p>Register Link Here.  https://hvfcpv.com</p>
+      </div>
       
       <div class="bulletins-box">
         <h3>ESSX RENTAL PROGRAM</h3>
@@ -29,14 +37,7 @@ import { Component } from '@angular/core';
           <a href="https://form.jotform.com/251964592146162" target="_blank" rel="noopener noreferrer">Register Here</a>
         </p>
       </div>
-      
-      <div class="bulletins-box">
-        <h3>OPEN SMALL GROUP VAULT SESSIONS</h3>
-        <p>Every Sunday & Wednesday</p>
-        <p>September and October</p>
-        <p>Club Membership Required</p>
-        <p>Register Link Here.  https://hvfcpv.com</p>
-      </div>
+    
     </div>
   `,
   styles: [`
