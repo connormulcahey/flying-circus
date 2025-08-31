@@ -29,6 +29,14 @@ import { Component } from '@angular/core';
           <a href="https://form.jotform.com/251964592146162" target="_blank" rel="noopener noreferrer">Register Here</a>
         </p>
       </div>
+      
+      <div class="bulletins-box">
+        <h3>OPEN SMALL GROUP VAULT SESSIONS</h3>
+        <p>Every Sunday & Wednesday</p>
+        <p>September and October</p>
+        <p>Club Membership Required</p>
+        <p>Register Link Here.  https://hvfcpv.com</p>
+      </div>
     </div>
   `,
   styles: [`
@@ -37,7 +45,7 @@ import { Component } from '@angular/core';
     }
 
     h2 {
-      color: #6203a3;
+      color: #228B22;
       font-family: Helvetica, Arial, sans-serif;
       font-size: 1rem;
       margin: 1rem 0 0.5rem 0;
@@ -51,7 +59,7 @@ import { Component } from '@angular/core';
     }
 
     a {
-      color: #6203a3;
+      color: #228B22;
       text-decoration: none;
     }
 
